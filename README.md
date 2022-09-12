@@ -5,4 +5,5 @@
 
 <!---
 BumRipper is a ✨ Bum ✨ 
+Bum as in lazy person
 --->
